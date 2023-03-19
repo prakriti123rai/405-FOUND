@@ -1,6 +1,6 @@
 # 405-FOUND
 Hello everyone we present to you our very own Inventory Management System for Tiwari uncle's canteen ,
-We've designed the system with the latest technologies in c++, making it user-friendly and intuitive for everyone. Whether you're a tech-savvy canteen employee or a customer who prefers the traditional ways of ordering, our system has got you covered 
+We've designed the system with the latest technologies in c++, making it user-friendly and intuitive for everyone. Whether you're a tech-savvy canteen employee or a customer who prefers the traditional ways of ordering, our system has got you covered .
 ## Aim of the Project
  The Development of an Inventory Management System for "Tiwari Uncle’s Canteen" using C++ aims to provide better management facility for canteen staff to efficiently update inventory records, monitor stock levels, and generate reports on sales and purchases of items
 We also aim to create a customer friendly  inventory where
