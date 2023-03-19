@@ -24,52 +24,57 @@ The following purposes in an inventory management system
 
 5. Reporting and Analytics
 ## Our learnings
-OOPS Paradigms
+- OOPS Paradigms
 
-File handling
+- File handling
 
-Exception handling
+- Exception handling
 
-Using different library functions like iomanip, fstream, etc. 
+- Using different library functions like iomanip, fstream, etc. 
 
-Indepth usage and management of several functions simultaneously in our code.
+- Indepth usage and management of several functions simultaneously in our code.
 
 ## Challenges we faced and how we overcame them
 Many challenges were faced by us while creating this inventory management system. One of them being our participation in our first ever hackathon . But this was overcome by help from our peers and seniors who were always available when we had any doubt. Another challenge we faced was of completing the required task on time, properly. We were able to overcome this by co-operating with each other by dividing the tasks among ourselves and helping out each other wherever we were stuck. we also faced some technical issues which were resolved by helping each other
 ## Design Challenges
-Changing Demand
 
-Customer demand is constantly shifting. Keeping too much could result in obsolete inventory you’re unable to sell, while keeping too little could leave you unable to fulfill customer orders.
+- Changing Demand
 
-Lack of System Optimization
+- Customer demand is constantly shifting. Keeping too much could result in obsolete inventory you’re unable to sell, while keeping too little could leave you unable to fulfill customer orders.
 
-Lack of optimization is a common design problem that makes it more difficult to accurately plan and forecast future inventory needs. 
+- Lack of System Optimization
 
-Decentralized Design
+- Lack of optimization is a common design problem that makes it more difficult to accurately plan and forecast future inventory needs. 
 
-An inventory system that stands on its own significantly increases the chances it will be inaccurate. While a decentralized design might initially be a less costly option for a small business on a tight budget, it can prove to be more costly over the long run. 
+- Decentralized Design
 
-A common problem with an inventory system design is a failure to include methods for cross-referencing the locations of inventory items
+- An inventory system that stands on its own significantly increases the chances it will be inaccurate. While a decentralized design might initially be a less costly option for a small business on a tight budget, it can prove to be more costly over the long run. 
+
+- A common problem with an inventory system design is a failure to include methods for cross-referencing the locations of inventory items
 ## Future scopes of application
-Scope of the Application
+- Scope of the Application
 
-Inventory Management System (IMS) is targeted to the small or medium organization which doesn’t have many godown or warehouses i.e. only to those organization thathas single power of authority. Some of the scope are:
+- Inventory Management System (IMS) is targeted to the small or medium organization which doesn’t have many godown or warehouses i.e. only to those organization thathas single power of authority. Some of the scope are:
 
-Only one person is responsible in assigning the details or records
+- Only one person is responsible in assigning the details or records
 
-It is security driven.
+- It is security driven.
 
-Godown can be added as per the requirement.
+- Godown can be added as per the requirement.
 
-Future Enhancements
+- Future Enhancements
 
-Since this project was started with very little knowledge about the Inventory Management System, we came to know about the enhancement capability during the
-process of building it. Some of the scope we can increase for the betterment and effectiveness are listed below:
+- Since this project was started with very little knowledge about the Inventory Management System, we came to know about the enhancement capability during   the process of building it. Some of the scope we can increase for the betterment and effectiveness are listed below:
 
-Interactive user interface design.
+- Interactive user interface design.
 
-Manage Stock Go down wise.
+- Manage Stock Go down wise.
 
-Use of Oracle as its database.
+- Use of Oracle as its database.
 
-Online payment system can be added.
+- Online payment system can be added.
+
+
+## Our Video
+   #Drive link :- https://drive.google.com/file/d/1ifQRc58dKhV7zvKT6THeRJOS8lt5_d9l/view?usp=drivesdk
+   
